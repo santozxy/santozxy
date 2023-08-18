@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/santozxy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=santozxy&theme=radical&border=7F3FBF&background=0D1117" alt="Monnuery Junior GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=santozxy&theme=radical&locale=pt_BR&border=9B0057" alt="Monnuery Junior GitHub streak"/>
   </a>
 </p>
 
