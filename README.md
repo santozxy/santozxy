@@ -41,14 +41,10 @@
  
 <p>
 
-<p>
-  Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre melhorias e me desenvolver para assim contribuir de todas as formas possíveis e algo que sempre digo é: "Quando tudo está errado ou confuso, apague tudo e recomece do zero."
-</p> 
-
-
+ ### Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre melhorias e me desenvolver para assim contribuir de todas as formas possíveis e algo que sempre digo é: "Quando tudo está errado ou confuso, apague tudo e recomece do zero."
+ 
 </p>
 
-<br/>
 <br/>
 <br/>
 
