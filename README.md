@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Eu sou um desenvolvedor Front-End</b> 」
+    「 Eu sou um Desenvolvedor Front-End</b> 」
     <br>
     <br>
   </samp>
