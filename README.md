@@ -60,7 +60,7 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 
 <p align="center">
   <a href="https://github.com/santozxy">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=santozxy&theme=radical&locale=pt_BR&border=7F3FBF" alt="Monnuery Junior GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=santozx&theme=radical&locale=pt_BR&border=7F3FBF" alt="Monnuery Junior GitHub streak"/>
   </a>
 </p>
 
