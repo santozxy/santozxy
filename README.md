@@ -34,19 +34,21 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Monnuery júnior" />
   </a> 
 </p>
-<br />
+
 
 <!-- About Section -->
  # Sobre mim
  
 <p>
-Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre melhorias e me desenvolver para assim contribuir de todas as formas possíveis e algo que sempre digo é: "Quando tudo está errado ou confuso, apague tudo e recomece do zero."
 <img align="right" src="me.webp" width="250" alt="Monnuery Júnior"/>
+  <br/>
+  <br/>
+Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre melhorias e me desenvolver para assim contribuir de todas as formas possíveis e algo que sempre digo é: "Quando tudo está errado ou confuso, apague tudo e recomece do zero."
 </p>
 
 <br/>
 <br/>
-
+<br/>
 
 <p align="left">
   <a href="https://github.com/santozxy?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/Repositórios-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
