@@ -71,7 +71,19 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 </p>
 
 <a> 
-    <a href="https://github.com/santozxy"><img alt="Monnuery Júnior Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/santozxy"><img alt="Tecnologias mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=santozxy&langs_count=10&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/santozxy">
+      <img alt="Monnuery Júnior Github Stats" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"   
+        height="192px"
+        width="49.5%"
+      />
+    </a>
+  <a href="https://github.com/santozxy">
+    <img alt="Tecnologias mais usadas" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=santozxy&langs_count=10&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+      height="192px" 
+      width="49.5%"
+    />
+  </a>
   <br/>
 </a>
