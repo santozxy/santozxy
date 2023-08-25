@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá!, eu sou
-                <b><a target="_blank" href="https://monnueryjunior.vercel.app">Monnuery Junior</a></b>
+                <b><a target="_blank" href="https://isdeveloper.com.br">Monnuery Junior</a></b>
         </samp>
 </h3>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- <a href="https://monnueryjunior.vercel.app/" target="blank">
+ <a href="https://isdeveloper.com.br" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Monnuery júnior" />
  </a>
  <a href="https://linkedin.com/in/monnueryj" target="_blank">
