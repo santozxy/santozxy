@@ -73,7 +73,7 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
   <br/>
    <a href="https://github.com/santozxy">
     <img alt="Tecnologias mais usadas" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&size_weight=0.5&count_weight=0.5" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santozxy&theme=midnight-purple&langs_count=8" 
     />
   </a>
 </p>
