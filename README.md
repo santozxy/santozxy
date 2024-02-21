@@ -65,15 +65,4 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
         src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"   
         />
     </a>
-  <a href="https://github.com/santozxy">
-    <img alt="Tecnologias mais usadas" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&size_weight=0.5&count_weight=0.5" 
-    />
-  </a>
-  <br/>
-   <a href="https://github.com/santozxy">
-    <img alt="Tecnologias mais usadas" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santozxy&theme=midnight-purple&langs_count=8" 
-    />
-  </a>
 </p>
