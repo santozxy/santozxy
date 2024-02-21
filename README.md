@@ -67,8 +67,13 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
     </a>
   <a href="https://github.com/santozxy">
     <img alt="Tecnologias mais usadas" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=santozxy&langs_count=10&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&size_weight=0.5&count_weight=0.5" 
     />
   </a>
   <br/>
+   <a href="https://github.com/santozxy">
+    <img alt="Tecnologias mais usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&size_weight=0.5&count_weight=0.5" 
+    />
+  </a>
 </p>
