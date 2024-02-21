@@ -62,7 +62,18 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 <p align="center"> 
     <a href="https://github.com/santozxy">
       <img alt="Monnuery Júnior Github Stats" 
-        src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"   
+        src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D"   
         />
     </a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true" />
+</picture>
 </p>
