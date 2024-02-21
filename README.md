@@ -73,7 +73,7 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 <p align="center"> 
     <a href="https://github.com/santozxy">
       <img alt="Monnuery Júnior Github Stats" 
-        src="[![GitHub Streak](https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)"   
+        src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"   
         />
     </a>
   <a href="https://github.com/santozxy">
