@@ -58,17 +58,6 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/santozxy">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=santozxy&theme=radical&locale=pt_BR&border=7F3FBF&include_all_commits=true" alt="Monnuery Junior GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/santozxy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santozxy&theme=radical" alt="Monnuery Júnior GitHub Contribution"/>
-  </a>
-</p>
 
 <p align="center"> 
     <a href="https://github.com/santozxy">
