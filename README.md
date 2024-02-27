@@ -74,6 +74,6 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
     srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" />
 </picture>
 </p>
