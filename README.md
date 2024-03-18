@@ -59,12 +59,21 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
 <br/>
 
 
-<p align="center"> 
-    <a href="https://github.com/santozxy">
-      <img alt="Monnuery Júnior Github Stats" 
-        src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D"   
-        />
-    </a>
+<p align="center" > 
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=000&color=7A11EA&line=fff&point=7A11EA&area=true&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=000&color=7A11EA&line=fff&point=7A11EA&area=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=2d2d2d0&color=760DE6&line=24292e&point=24292e&area=true&hide_border=true"/>
+</picture>
+<br/>
+<br/>
+<br/>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true"
@@ -72,6 +81,20 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+</picture>
+<br/>
+<br/>
+<br/>
+<picture>
+  <source
+ srcset="https://github-profile-trophy.vercel.app/?username=santozxy&theme=juicyfresh&row=2&column=3"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=santozxy&theme=juicyfresh&row=2&column=3"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" />
