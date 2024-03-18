@@ -71,32 +71,13 @@ Sou apaixonado pelo mundo do desenvolvimento, estudo diariamente buscando sempre
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=2d2d2d0&color=760DE6&line=24292e&point=24292e&area=true&hide_border=true"/>
 </picture>
-<br/>
-<br/>
-<br/>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" />
-</picture>
-<br/>
-<br/>
-<br/>
-<picture>
-  <source
- srcset="https://github-profile-trophy.vercel.app/?username=santozxy&theme=juicyfresh&row=2&column=3"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=santozxy&theme=juicyfresh&row=2&column=3"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" />
-</picture>
+
+<hr/>
+
 </p>
+<table>
+  <tr>
+    <td><img height=250 src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple&include_all_commits=true" /></td>
+    <td><img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&layout=donut&theme=midnight-purple" /></td>
+  </tr>
+</table>
