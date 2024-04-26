@@ -1,17 +1,17 @@
 <a href="https://komarev.com/ghpvc/?username=santozxy">
-  <img align="right" src="https://komarev.com/ghpvc/?username=santozxy&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitor" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=santozxy&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile visitor" />
 </a>
 <br/>
 
 ###
 
 <div align="center">
-  <img align="center" height="400" src="me.webp"  />
+  <img align="center" height="350" src="me.webp"  />
 </div>
 
 ###
 
-<h1 align="center">Hey Dev 👋</h1>
+<h1 align="center">Hey Devs 👋</h1>
 
 ###
 
