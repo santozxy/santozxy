@@ -11,11 +11,8 @@
 
 ###
 
-<h1 align="center">Hey Devs 👋</h1>
+<h1 align="left">Hey Devs 👋</h1>
 
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
