@@ -3,10 +3,10 @@
 </a>
 <br/>
 
-
 ###
+
 <div align="center">
-  <img align="center" height="250" src="me.webp"  />
+  <img align="center" height="400" src="me.webp"  />
 </div>
 
 ###
@@ -77,10 +77,13 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<p align="center" >
 
+<hr/>
 
-<p align="center" > 
-<picture>
+</p>
+
+  <picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=000&color=7A11EA&line=fff&point=7A11EA&area=true&hide_border=true"
     media="(prefers-color-scheme: dark)"
@@ -91,13 +94,10 @@
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santozxy&bg_color=2d2d2d0&color=760DE6&line=24292e&point=24292e&area=true&hide_border=true"/>
 </picture>
-
-<hr/>
-
-</p>
 <table>
   <tr>
-    <td><img height=250 src="https://github-readme-stats.vercel.app/api?username=santozxy&show_icons=true&theme=midnight-purple" /></td>
+  <td><img height=250 src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple" alt="GitHub Streak"</td>
     <td><img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&layout=donut&theme=midnight-purple" /></td>
   </tr>
 </table>
+
