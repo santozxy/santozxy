@@ -87,7 +87,7 @@
 </picture>
 <table>
   <tr>
-  <td><img height=250 src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple&exclude_days=Sun%2CSat" alt="GitHub Streak"</td>
+  <td><img height=250 src="https://streak-stats.demolab.com?user=santozxy&theme=midnight-purple" alt="GitHub Streak"</td>
     <td><img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=santozxy&layout=donut&theme=midnight-purple" /></td>
   </tr>
 </table>
