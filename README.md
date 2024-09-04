@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Front-End Developer with over 2 years of experience in ReactJS and React Native, solid skills in HTML, CSS, JavaScript and TypeScript. Communicative and committed, meeting deadlines efficiently. I have experience designing using Figma. Familiar with agile methodologies such as Scrum, Kanban and versioning tools such as Git, GitHub and GitLab. Experience in mobile and web projects, both as a team member and as a freelancer. In constant search for professional evolution and improvement.</p>
+<p align="left">Expert front-end developer with experience in ReactJS, NextJS, and React Native. Experience in web and mobile projects. Skilled in designing with Figma and translating designs into high-quality code. Adept at monitoring, improving, and maintaining frontend performance. Familiar with agile methodologies such as Scrum and version control tools like Git, GitHub, and GitLab.</p>
 
 ###
 
