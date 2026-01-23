@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Expert front-end developer with experience in ReactJS, NextJS, and React Native. Experience in web and mobile projects. Skilled in designing with Figma and translating designs into high-quality code. Adept at monitoring, improving, and maintaining frontend performance. Familiar with agile methodologies such as Scrum and version control tools like Git, GitHub, and GitLab.</p>
+<p align="left">Expert front-end developer with experience in ReactJS, NextJS, NestJS and React Native. Experience in web and mobile projects. Skilled in designing with Figma and translating designs into high-quality code. Adept at monitoring, improving, and maintaining frontend performance. Familiar with agile methodologies such as Scrum and version control tools like Git, GitHub, and GitLab.</p>
 
 ###
 
@@ -40,6 +40,10 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
